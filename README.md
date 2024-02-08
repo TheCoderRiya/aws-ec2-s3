@@ -54,4 +54,45 @@
    ![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/b277444d-2c5e-4ec5-a54f-daacf5ef6415)
 
 
+4. Get S3 Bucket Objects
+   
+   **URL:** http://localhost:7878/api/v1/aws/get-s3-bucket-objects
+   
+   **Parameters:** bucketName
 
+   **Values:** enter the proper bucket name
+
+   ![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/88dd67a5-5f61-41fc-936a-71c626f43894)
+
+
+5. Get S3 Bucket Objects Details
+   
+   **URL:** http://localhost:7878/api/v1/aws/get-s3-bucket-objects-details
+
+   **Parameters:** bucketName
+
+   **Values:** enter the proper bucket name 
+
+   ![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/408fe39c-644e-4605-9ac3-79454c35d959)
+
+
+6. Get S3 Bucket Object Count
+   
+   **URL:** http://localhost:7878/api/v1/aws/get-s3-bucket-object-count
+   
+   **Parameters:** bucketName
+
+   **Values:** enter the proper bucket name
+
+   ![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/24dc951f-5e7d-4d33-9554-7381b49b8e7f)
+
+
+7. Get S3 Bucket Object Like
+   
+   **URL:** http://localhost:7878/api/v1/aws/get-s3-bucket-object-like
+
+   **Parameters:** bucketName, pattern
+
+   **Values:** enter the proper bucket name, a pattern 
+
+   ![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/6a1bdb91-1ba5-402a-87e8-9e20765541a0)
