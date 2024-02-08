@@ -27,4 +27,5 @@
 
    **Parameters:** EC2, S3
 
-![image-20240208094654599](C:\Users\Vidyayug\AppData\Roaming\Typora\typora-user-images\image-20240208094654599.png)
+![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/be8c043a-e9ba-4425-9a27-4376a8640bf7)
+
