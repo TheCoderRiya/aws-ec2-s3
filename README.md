@@ -25,7 +25,33 @@
 
    **URL:** http://localhost:7878/api/v1/aws/discover-services
 
-   **Parameters:** EC2, S3
+   **Parameter:** services
+   
+   **Values:** EC2, S3 (you can give according to the need)
 
-![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/be8c043a-e9ba-4425-9a27-4376a8640bf7)
+   ![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/be8c043a-e9ba-4425-9a27-4376a8640bf7)
+
+
+2. Get Job Result
+
+   **URL:** http://localhost:7878/api/v1/aws/get-job-result
+
+   **Parameters:** jobId
+
+   **Values:** Job id what we collected from first endpoint call
+
+   ![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/35d94505-f134-44f8-8956-54e152d85509)
+
+
+3. Get Discovery Result
+   
+   **URL:** http://localhost:7878/api/v1/aws/get-discovery-result
+
+   **Parameters:** service
+
+   **Values:** EC2, S3 (you can give according to the need)
+
+   ![image](https://github.com/TheCoderRiya/aws-ec2-s3/assets/66270239/b277444d-2c5e-4ec5-a54f-daacf5ef6415)
+
+
 
